@@ -3,7 +3,7 @@
 *.iml
 
 # credentials
-/credentials.json
+/.env.local
 
 # dependencies
 /node_modules
